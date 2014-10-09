@@ -1,6 +1,6 @@
 # Format Clock
 
-This Gnome Shell extension allows to modify clock format on the top panel and
+This Gnome Shell (version 3.12) extension allows to modify clock format on the top panel and
 date format in calendar menu.
 
 This extension is based on
